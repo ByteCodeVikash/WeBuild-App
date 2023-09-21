@@ -7,10 +7,10 @@ WeBuild is the all-in-one Android app that redefines the world of construction a
 <h3>•Architecture Design: </h3>Immerse yourself in a world of architectural brilliance. Explore diverse designs, blueprints, and floor plans from across the globe.
 
 <h1>Tools used</h1>
-•SQILITE Database
-•Android Studio IDE
-•Android version 4.0 or later
-•Android SDK 17-28
+•SQILITE Database<br>
+•Android Studio IDE<br>
+•Android version 4.0 or later<br>
+•Android SDK 17-28<br>
 
 <h1>Screenshot</h1>
 
@@ -24,6 +24,12 @@ WeBuild is the all-in-one Android app that redefines the world of construction a
 ![Bathroom](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/dd49215e-6c3e-4255-97eb-df8422ec3ff7)
 ![livingroom](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/4dc9d24d-50e5-4641-beab-a8efd795b92b)
 ![poojaroom](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/4f62f67f-f16e-4b08-81b9-55643530fe54)
+![cart](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/8bbb4477-9c34-4bb4-afb2-3633542c1a20)
+![logout](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/26c6a21b-d30f-4ca3-ab7e-1f08f0506ca4)
+![Search](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/060eb176-a839-4ea2-91b9-173ac2e0e515)
+![materialdesign](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/0989a2d5-5fb3-4f6e-acc9-07bf1f4543a8)
+![pic](https://github.com/ByteCodeVikash/WeBuild-App/assets/112969269/1f869815-f791-426b-a462-0ce77eacafec)
+
 
 <h1>License</h1>
 MIT License
@@ -37,7 +43,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h1>Meet the Author</h1>
-1.Email-vikash7618@gmail.com
+
+1.Email-   vikash7618@gmail.com
 
 
 
